@@ -1,1 +1,24 @@
+p{ color: rgba(0, 0, 0, 0.747);
+font-size: large;}
+i{
+    color: brown;
+}
+h1 {
+    text-align: center;
+}
 
+.descricao{
+    font-size: 30px;
+    background-color: bisque;
+    margin-left: 800px;
+
+}
+.fernanda{
+margin-left: 550px;
+}
+.outra{
+    margin-top: -300px; 
+    width: 50%;
+    margin-bottom: 150px;
+    background-color: bisque;
+    font-size: 30px;
